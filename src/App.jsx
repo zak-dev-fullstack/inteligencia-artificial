@@ -7,7 +7,10 @@ function App() {
   return (
     <>
     <main>
-      <h1>IA 0v0</h1>
+      <h1>Inteligencia Artificial</h1>
+
+      <h2>Web Ready for Idea or Project</h2>
+      
     </main>
     </>
   )
